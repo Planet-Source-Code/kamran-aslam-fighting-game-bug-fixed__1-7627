@@ -1,0 +1,4 @@
+frmFighter = 58, 98, 580, 506, C, 88, 88, 463, 434, C
+frmSplashScreen = 101, 231, 548, 639, CZ, 0, 0, 0, 0, C
+frmControls = 153, 103, 600, 511, C, 0, 0, 0, 0, C
+frmCredits = 122, 103, 569, 511, C, 0, 0, 0, 0, C
